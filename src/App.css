@@ -315,9 +315,15 @@ body {
   color: #ffffff;
   line-height: 1.8;
 }
-
+.education-subtitle li::marker{
+  color: #d3a2fc;
+}
 .education-list li {
   margin-bottom: 8px;
+}
+
+.education-list li::marker {
+  color: #d3a2fc; /* Purple dots */
 }
 
 .education-item:last-child {
@@ -423,7 +429,7 @@ body {
 
 .project-tech {
   font-size: 1rem;
-  color: #47f865;
+  color: #d3a2fc;
   font-weight: normal;
 }
 
@@ -437,6 +443,10 @@ body {
   color: #ffffff;
   line-height: 1.7;
   margin-bottom: 8px;
+}
+
+.project-bullets li::marker {
+  color: #d3a2fc; /* Purple dots */
 }
 
 /* Animated Scroll Arrow */
@@ -455,4 +465,10 @@ body {
   50% {
     transform: translateY(15px);
   }
+}
+
+/* Highlighted name */
+.highlight-name {
+  color: #d3a2fc;
+  font-weight: bold;
 }

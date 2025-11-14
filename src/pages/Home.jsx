@@ -24,7 +24,7 @@ function Home() {
             </p>
             <div className="scroll-arrow" onClick={scrollToAbout}>
                 <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M12 5V19M12 19L19 12M12 19L5 12" stroke="#ffffff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                    <path d="M12 5V19M12 19L19 12M12 19L5 12" stroke="#d3a2fc" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                 </svg>
             </div>
 
@@ -37,7 +37,7 @@ function Home() {
           <h3 className="section-title"></h3>
           <div className="about-content">
             <p>
-            Hello! My name is Tristan Clayman. I'm a Computer Science graduate from California State University, Long Beach, 
+            Hello! My name is <span className="highlight-name">Tristan Clayman</span>. I'm a Computer Science graduate from California State University, Long Beach, 
             where I earned my Bachelor of Science in Computer Science.
             </p>
             <p>

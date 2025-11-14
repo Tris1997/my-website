@@ -6,7 +6,7 @@ function Education() {
           <div className="education-content">
             <div className="education-item">
               <h4 className="education-title">Bachelor's Degree</h4>
-              <p className="education-subtitle">BS in Computer Science - California State University, Long Beach</p>
+              <p className="education-subtitle"><li>BS in Computer Science - California State University, Long Beach</li></p>
               <p className="education-year"></p>
               <p className="education-description">
                 
