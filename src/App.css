@@ -316,14 +316,14 @@ body {
   line-height: 1.8;
 }
 .education-subtitle li::marker{
-  color: #d3a2fc;
+  color: #b47bff;
 }
 .education-list li {
   margin-bottom: 8px;
 }
 
 .education-list li::marker {
-  color: #d3a2fc; /* Purple dots */
+  color: #b47bff; /* Purple dots */
 }
 
 .education-item:last-child {
@@ -356,7 +356,7 @@ body {
 .footer a,
 .footer .footer-link,
 a.footer-link {
-  color: #d3a2fc !important;
+  color: #b47bff !important;
   text-decoration: none !important;
   transition: all 0.3s;
   font-size: 1.5rem;
@@ -439,7 +439,7 @@ a.footer-link:hover {
 
 .project-tech {
   font-size: 1rem;
-  color: #d3a2fc;
+  color: #b47bff;
   font-weight: normal;
 }
 
@@ -456,7 +456,7 @@ a.footer-link:hover {
 }
 
 .project-bullets li::marker {
-  color: #d3a2fc; /* Purple dots */
+  color: #b47bff; /* Purple dots */
 }
 
 /* Animated Scroll Arrow */
@@ -479,6 +479,6 @@ a.footer-link:hover {
 
 /* Highlighted name */
 .highlight-name {
-  color: #d3a2fc;
+  color: #b47bff;
   font-weight: bold;
 }

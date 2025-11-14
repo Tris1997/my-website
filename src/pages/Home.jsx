@@ -24,7 +24,7 @@ function Home() {
             </p>
             <div className="scroll-arrow" onClick={scrollToAbout}>
                 <svg width="40" height="40" viewBox="0 0 24 24" fill="none" xmlns="http://www.w3.org/2000/svg">
-                    <path d="M12 5V19M12 19L19 12M12 19L5 12" stroke="#d3a2fc" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
+                    <path d="M12 5V19M12 19L19 12M12 19L5 12" stroke="#b47bff" strokeWidth="2" strokeLinecap="round" strokeLinejoin="round"/>
                 </svg>
             </div>
 
