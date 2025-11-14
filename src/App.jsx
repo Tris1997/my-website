@@ -26,7 +26,7 @@ function App() {
             <h1 className="nav-logo">Tristan Clayman's Portfolio</h1>
             <div className="nav-menu">
               <Link to="/" className="nav-link">Home</Link>
-              <Link to="/work" className="nav-link">Projects</Link>
+              <Link to="/projects" className="nav-link">Projects</Link>
               <Link to="/education" className="nav-link">Education</Link>
             </div>
           </div>
