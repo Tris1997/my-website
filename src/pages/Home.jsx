@@ -43,7 +43,7 @@ function Home() {
             <p>
             I'm an aspiring data scientist with a strong interest in data, numbers, and statistical analysis. I enjoy building systems that use logic, patterns, 
             and data driven insights. Through my projects, I've gained experience across full-stack development, 
-            databases, analytics, and distributed systems, continually pushing myself to grow both technically and professionally.
+            databases, data analysis and distributed systems, continually pushing myself to grow both technically and professionally.
             </p>
             <p>
               I'm always excited to connect with others, learn new technologies, 
